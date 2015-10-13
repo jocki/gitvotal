@@ -1,0 +1,6 @@
+flask==0.10.1
+uwsgi==2.0.9
+requests==2.7.0
+ujson==1.33
+webargs==0.13.0
+github3.py==1.0.0a2
